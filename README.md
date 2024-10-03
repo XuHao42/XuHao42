@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 ![Miku_poster](https://github.com/user-attachments/assets/d497c12a-75db-4235-876c-ca2ac0814747)
 
-**Welcome to my personal page!** I'm now a student majoring in computer science in a China University.Truly interested in technology, I spend all my time on it. I believe I can do it well. This is my Github account, and some of my future projects will be uploaded here. I hope you will like them.
+**Welcome to my personal page!** I'm currently a computer science student at a university in China, with a deep passion for technology. I dedicate most of my time to exploring and mastering the field, confident in my ability to excel. This is my Github account, where I'll be sharing future projects. I hope you enjoy them!
